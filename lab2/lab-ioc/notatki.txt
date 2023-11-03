@@ -1,0 +1,7 @@
+Dependency Inversion (zasada) - obiekty powinny zależeć od abstrakcji (interfejsy), nie od klas czy obiektów. SOLI*D*
+Inversion of Control (paradygmat) -  wywlekamy tworzenie (akcje) na zewnątrz
+Dependency Injection - klasa nie tworzy obiektów, tylko je dostaje z zewnątrz; parametryzujemy coś przez konstruktor
+    Wstrzykiwać można na różne sposoby: przez konstruktor, settery, pola publiczne itp.
+Dependency Injection jest przykładem Inversion of Control
+Event Driven Development jes przykładem Inversion of Control
+Asp jest przykładem Inversion of Control

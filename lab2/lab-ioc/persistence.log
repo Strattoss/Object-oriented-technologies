@@ -1,0 +1,140 @@
+2023.10.14 11:24:56: Loading teachers...
+2023.10.14 11:24:56: Teachers loaded successfully
+2023.10.14 11:24:56: Loading classes...
+2023.10.14 11:24:56: Classes loaded successfully
+2023.10.14 11:25:47: Loading teachers...
+2023.10.14 11:25:47: Teachers loaded successfully
+2023.10.14 11:25:47: Loading classes...
+2023.10.14 11:25:47: Classes loaded successfully
+2023.10.14 11:44:50: Loading teachers...
+2023.10.14 11:44:50: Teachers loaded successfully
+2023.10.14 11:44:50: Loading classes...
+2023.10.14 11:44:50: Classes loaded successfully
+2023.10.14 11:47:46: Loading teachers...
+2023.10.14 11:47:46: Teachers loaded successfully
+2023.10.14 11:47:46: Loading classes...
+2023.10.14 11:47:46: Classes loaded successfully
+2023.10.14 11:48:13: Saving teachers...
+2023.10.14 11:48:13: Teachers saved successfully
+2023.10.14 11:48:13: Added Thomas Anderson Teacher
+2023.10.14 11:48:13: Saving teachers...
+2023.10.14 11:48:13: Teachers saved successfully
+2023.10.14 11:48:13: Added Han Solo Teacher
+2023.10.14 11:48:13: Saving teachers...
+2023.10.14 11:48:13: Teachers saved successfully
+2023.10.14 11:48:13: Added Princess Leia Teacher
+2023.10.14 11:48:13: Saving teachers...
+2023.10.14 11:48:13: Teachers saved successfully
+2023.10.14 11:48:13: Added Severus Snape Teacher
+2023.10.14 11:48:13: Saving teachers...
+2023.10.14 11:48:13: Teachers saved successfully
+2023.10.14 11:48:13: Added Dolores Umbridge Teacher
+2023.10.14 11:49:09: Loading teachers...
+2023.10.14 11:49:09: Teachers loaded successfully
+2023.10.14 11:51:30: Loading teachers...
+2023.10.14 11:51:30: Teachers loaded successfully
+2023.10.14 11:51:30: Saving classes...
+2023.10.14 11:51:30: Classes saved successfully
+2023.10.14 11:51:30: Added class 1A, profile humane
+2023.10.14 11:57:53: Saving teachers...
+2023.10.14 11:57:53: Teachers saved successfully
+2023.10.14 11:57:53: Added Thomas Anderson Teacher
+2023.10.14 11:57:53: Saving teachers...
+2023.10.14 11:57:53: Teachers saved successfully
+2023.10.14 11:57:53: Added Han Solo Teacher
+2023.10.14 11:57:53: Saving teachers...
+2023.10.14 11:57:53: Teachers saved successfully
+2023.10.14 11:57:53: Added Princess Leia Teacher
+2023.10.14 11:57:53: Saving teachers...
+2023.10.14 11:57:53: Teachers saved successfully
+2023.10.14 11:57:53: Added Severus Snape Teacher
+2023.10.14 11:57:53: Saving teachers...
+2023.10.14 11:57:53: Teachers saved successfully
+2023.10.14 11:57:53: Added Dolores Umbridge Teacher
+2023.10.14 11:57:53: Saving classes...
+2023.10.14 11:57:53: Classes saved successfully
+2023.10.14 11:57:53: Added class 1A, profile humane
+2023.10.14 12:00:03: Loading teachers...
+2023.10.14 12:00:03: Teachers loaded successfully
+2023.10.14 12:00:03: Loading classes...
+2023.10.14 12:00:03: Classes loaded successfully
+2023.10.14 12:00:32: Saving teachers...
+2023.10.14 12:00:32: Teachers saved successfully
+2023.10.14 12:00:32: Added Thomas Anderson Teacher
+2023.10.14 12:00:32: Saving teachers...
+2023.10.14 12:00:32: Teachers saved successfully
+2023.10.14 12:00:32: Added Han Solo Teacher
+2023.10.14 12:00:32: Saving teachers...
+2023.10.14 12:00:32: Teachers saved successfully
+2023.10.14 12:00:32: Added Princess Leia Teacher
+2023.10.14 12:00:32: Saving teachers...
+2023.10.14 12:00:32: Teachers saved successfully
+2023.10.14 12:00:32: Added Severus Snape Teacher
+2023.10.14 12:00:32: Saving teachers...
+2023.10.14 12:00:32: Teachers saved successfully
+2023.10.14 12:00:32: Added Dolores Umbridge Teacher
+2023.10.14 12:00:32: Added Peter Pan Student to class class 1A, profile humane
+2023.10.14 12:00:32: Added Anna Shirley Student to class class 1A, profile humane
+2023.10.14 12:00:32: Added Harry Potter Student to class class 1A, profile humane
+2023.10.14 12:00:32: Added Ron Weasley Student to class class 1A, profile humane
+2023.10.14 12:00:32: Added term of subject Math on MONDAY at 10:30, 45 min to subject Math
+2023.10.14 12:00:32: Added term of subject Math on THURSDAY at 12:50, 45 min to subject Math
+2023.10.14 12:00:32: Added subject Math to class 1A, profile humane
+2023.10.14 12:00:32: Added term of subject English on MONDAY at 12:00, 45 min to subject English
+2023.10.14 12:00:32: Added term of subject English on TUESDAY at 11:00, 45 min to subject English
+2023.10.14 12:00:32: Added term of subject English on WEDNESDAY at 10:30, 45 min to subject English
+2023.10.14 12:00:32: Added term of subject English on THURSDAY at 11:00, 45 min to subject English
+2023.10.14 12:00:32: Added subject English to class 1A, profile humane
+2023.10.14 12:00:32: Added term of subject Computer Science on TUESDAY at 09:00, 45 min to subject Computer Science
+2023.10.14 12:00:32: Added subject Computer Science to class 1A, profile humane
+2023.10.14 12:00:32: Added term of subject Chemistry on WEDNESDAY at 11:30, 45 min to subject Chemistry
+2023.10.14 12:00:32: Added subject Chemistry to class 1A, profile humane
+2023.10.14 12:00:32: Added term of subject Potions on FRIDAY at 09:00, 90 min to subject Potions
+2023.10.14 12:00:32: Added subject Potions to class 1A, profile humane
+2023.10.14 12:00:32: Added term of subject Black Magic Defense on FRIDAY at 12:30, 90 min to subject Black Magic Defense
+2023.10.14 12:00:32: Added subject Black Magic Defense to class 1A, profile humane
+2023.10.14 12:00:32: Saving classes...
+2023.10.14 12:00:32: Classes saved successfully
+2023.10.14 12:00:32: Added class 1A, profile humane
+2023.10.14 12:01:10: Loading teachers...
+2023.10.14 12:01:10: Teachers loaded successfully
+2023.10.14 12:01:10: Loading classes...
+2023.10.14 12:01:10: Classes loaded successfully
+2023.10.14 12:01:31: Saving teachers...
+2023.10.14 12:01:31: Teachers saved successfully
+2023.10.14 12:01:31: Added Thomas Anderson Teacher
+2023.10.14 12:01:31: Saving teachers...
+2023.10.14 12:01:31: Teachers saved successfully
+2023.10.14 12:01:31: Added Han Solo Teacher
+2023.10.14 12:01:31: Saving teachers...
+2023.10.14 12:01:31: Teachers saved successfully
+2023.10.14 12:01:31: Added Princess Leia Teacher
+2023.10.14 12:01:31: Saving teachers...
+2023.10.14 12:01:31: Teachers saved successfully
+2023.10.14 12:01:31: Added Severus Snape Teacher
+2023.10.14 12:01:31: Saving teachers...
+2023.10.14 12:01:31: Teachers saved successfully
+2023.10.14 12:01:31: Added Dolores Umbridge Teacher
+2023.10.14 12:01:31: Added Peter Pan Student to class class 1A, profile humane
+2023.10.14 12:01:31: Added Anna Shirley Student to class class 1A, profile humane
+2023.10.14 12:01:31: Added Harry Potter Student to class class 1A, profile humane
+2023.10.14 12:01:31: Added Ron Weasley Student to class class 1A, profile humane
+2023.10.14 12:01:31: Added term of subject Math on MONDAY at 10:30, 45 min to subject Math
+2023.10.14 12:01:31: Added term of subject Math on THURSDAY at 12:50, 45 min to subject Math
+2023.10.14 12:01:31: Added subject Math to class 1A, profile humane
+2023.10.14 12:01:31: Added term of subject English on MONDAY at 12:00, 45 min to subject English
+2023.10.14 12:01:31: Added term of subject English on TUESDAY at 11:00, 45 min to subject English
+2023.10.14 12:01:31: Added term of subject English on WEDNESDAY at 10:30, 45 min to subject English
+2023.10.14 12:01:31: Added term of subject English on THURSDAY at 11:00, 45 min to subject English
+2023.10.14 12:01:31: Added subject English to class 1A, profile humane
+2023.10.14 12:01:31: Added term of subject Computer Science on TUESDAY at 09:00, 45 min to subject Computer Science
+2023.10.14 12:01:31: Added subject Computer Science to class 1A, profile humane
+2023.10.14 12:01:31: Added term of subject Chemistry on WEDNESDAY at 11:30, 45 min to subject Chemistry
+2023.10.14 12:01:31: Added subject Chemistry to class 1A, profile humane
+2023.10.14 12:01:31: Added term of subject Potions on FRIDAY at 09:00, 90 min to subject Potions
+2023.10.14 12:01:31: Added subject Potions to class 1A, profile humane
+2023.10.14 12:01:31: Added term of subject Black Magic Defense on FRIDAY at 12:30, 90 min to subject Black Magic Defense
+2023.10.14 12:01:31: Added subject Black Magic Defense to class 1A, profile humane
+2023.10.14 12:01:31: Saving classes...
+2023.10.14 12:01:31: Classes saved successfully
+2023.10.14 12:01:31: Added class 1A, profile humane
